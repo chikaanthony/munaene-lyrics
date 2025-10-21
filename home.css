@@ -82,7 +82,7 @@ p{
   font-weight: weight;
   font-style: normal;
   color: white;
-  font-size: small;
+  font-size: large;
 }
 .icon{
     display: flex;
@@ -104,5 +104,7 @@ footer{
     .main{
         margin-left: 30%;
     }
-    
+    p{
+        font-size:11px;
+    }
 }

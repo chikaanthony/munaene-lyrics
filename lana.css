@@ -40,12 +40,14 @@ audio{
     float: left;
 }
 .daughter{
-    height: 50vh;
-    width: 55%;
+    height: 100%;
+    width: 70%;
     background-color: black;
     margin: 10px;
     border-top: 10px solid black;
     display: inline-block;
+    padding-bottom: 600px;
+    margin-bottom: 200px;
 }
 img{
     margin-left: 5px;
@@ -75,5 +77,8 @@ h1 {
     }
     .son{width: 80%;
         height: 25vh;
+    }
+    .main{
+        margin-bottom: 200px;
     }
 }
