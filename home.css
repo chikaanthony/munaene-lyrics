@@ -43,9 +43,8 @@ body{
     margin-left:10px ; padding: 2px;
     border-radius: 12px;
 }
-#album{
-    margin-bottom: 20px;
-}
+
+
 .details{
    background-color: rgba(10, 2, 6, 0.471); 
    bottom: 12px;
@@ -106,5 +105,11 @@ footer{
     }
     p{
         font-size:12px;
+    }
+}
+
+@media screen and (max-width:659.9px) {
+    .album{
+        width: 90%;
     }
 }
